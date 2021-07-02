@@ -332,3 +332,4 @@ Q. Public, Allow 헤더 차이?
   - As "Allow" but lists those requests which anyone may use. If omitted, the default is "GET" only.
   - Example of use:
 ```Public: GET HEAD TEXTSEARCH```
+
