@@ -1,4 +1,5 @@
-# http-the-definitive-guide
+# HTTP: The Definitive Guide
+
 - HTTP 완벽가이드. 웹은 어떻게 동작하는가
 - 매주 1~2장씩 읽고 정리
 
